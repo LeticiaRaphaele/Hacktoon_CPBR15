@@ -2,7 +2,7 @@
 estados = {
     1: {"Nome_Estado": "Bahia", "Sigla": "BA"},
     2: {"Nome_Estado": "Rio de Janeiro", "Sigla": "RJ"}
-}
+} 
 
 cidades = {
     1: {"Nome_Cidade": "Jequié", "Codigo_Municipio": 123, "ID_Estado": 1},
